@@ -64,6 +64,6 @@ docs/*.md
 #忽略user文件
 ./*.user
 #忽略debug  release log文件夹
-./*/debug
-./*/release
-./*/log
+./*/debug/*
+./*/release/*
+./*/log/*
